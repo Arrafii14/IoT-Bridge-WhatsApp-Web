@@ -46,11 +46,11 @@ Proyek ini adalah aplikasi Node.js yang menggunakan beberapa skrip untuk berbaga
    dan scan kode QR untuk login
 
 4. Struktur Proyek
-        get-id.js: Skrip untuk mendapatkan ID dari sumber tertentu.
-        index.js: Entry point utama yang menginisialisasi dan menjalankan aplikasi.
-        package.json: File konfigurasi yang berisi metadata proyek dan daftar dependensi.
-        package-lock.json: File yang memastikan instalasi proyek di masa depan dapat direproduksi secara konsisten.
-        pengaturan.json: File konfigurasi untuk menyimpan pengaturan aplikasi.
+    - get-id.js: Skrip untuk mendapatkan ID dari sumber tertentu.
+    - index.js: Entry point utama yang menginisialisasi dan menjalankan aplikasi.
+    - package.json: File konfigurasi yang berisi metadata proyek dan daftar dependensi.
+    - package-lock.json: File yang memastikan instalasi proyek di masa depan dapat direproduksi secara konsisten.
+    - pengaturan.json: File konfigurasi untuk menyimpan pengaturan aplikasi.
 
 ## Kontribusi
 Jika kamu ingin berkontribusi pada proyek ini, silakan buat pull request atau hubungi kami untuk informasi lebih lanjut.
