@@ -1,0 +1,14 @@
+{
+  "nomor_tujuan": "6282250801596",
+  "nomor_bot": "62895382407474",
+  "mqtt_broker": "mqtt://broker.emqx.io",
+  "mqtt_username": "emqx",
+  "mqtt_password": "public",
+  "jam": 15,
+  "menit": 39,
+  "detik": 0,
+  "//": "isi parameter diatas",
+  "nomor tujuan": "082250801595",
+  "nomor bot": "isi nomor yang digunakan bot ",
+  "mqtt broker": "isi alamat broker mqtt yang digunakan"
+}
